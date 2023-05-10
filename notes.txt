@@ -1,0 +1,13 @@
+Applying Styles:
+
+    1. create a sepated css file 
+        .centered-text {
+        text-align: center;
+        }
+
+    2. link css file to html
+        <link rel = "stylesheet" href = ".path/style.css">
+
+    3. apply style in html
+        <div class = "centered-text "> content </div>
+

@@ -1,0 +1,19 @@
+.centered-element{
+    /* display: flex; */
+    text-align: center;
+    justify-content: center;
+}
+
+
+.main-title-text{
+    font-weight: bold;
+    font-size: 4vw ;
+}
+.search-box{
+  padding: 6px;
+  border: double gray;
+  margin-top: 8px;
+  margin-right: 16px;
+  margin-left: 15px;
+  font-size: 17px;
+}
