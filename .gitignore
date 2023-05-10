@@ -14,13 +14,14 @@ yarn-error.log
 # IDEs and editors
 .idea/
 .project
-.classpath
+.classpathp
 .c9/
 *.launch
 .settings/
 *.sublime-workspace
 
 # Visual Studio Code
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -40,3 +41,4 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
