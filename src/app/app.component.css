@@ -1,5 +1,4 @@
 .centered-element{
-    /* display: flex; */
     text-align: center;
     justify-content: center;
 }
@@ -10,10 +9,12 @@
     font-size: 4vw ;
 }
 .search-box{
+  display: block;
   padding: 6px;
   border: double gray;
-  margin-top: 8px;
-  margin-right: 16px;
-  margin-left: 15px;
+  margin: 10px auto;
   font-size: 17px;
+}
+.movie-grid{
+  margin: 40px;
 }
